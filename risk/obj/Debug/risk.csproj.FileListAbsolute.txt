@@ -1,0 +1,16 @@
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\bin\Debug\risk.exe.config
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\obj\Debug\risk.csprojResolveAssemblyReference.cache
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\obj\Debug\risk.Properties.Resources.resources
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\obj\Debug\risk.csproj.GenerateResource.Cache
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\bin\Debug\risk.exe
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\bin\Debug\risk.pdb
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\bin\Debug\MySql.Data.dll
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\bin\Debug\MySql.Data.xml
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\obj\Debug\risk.exe
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\obj\Debug\risk.pdb
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\obj\Debug\risk.login.resources
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\obj\Debug\risk.regesiter.resources
+C:\Users\10977\documents\visual studio 2015\Projects\risk\risk\obj\Debug\risk.asset.resources
+C:\Users\10977\documents\visual studio 2015\Projects\risk\risk\obj\Debug\risk.menace.resources
+C:\Users\10977\documents\visual studio 2015\Projects\risk\risk\obj\Debug\risk.vulnerability.resources
+C:\Users\10977\documents\visual studio 2015\Projects\risk\risk\obj\Debug\risk.statement.resources

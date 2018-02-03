@@ -1,0 +1,3 @@
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\bin\Release\risk.exe.config
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\obj\Release\risk.Properties.Resources.resources
+c:\users\10977\documents\visual studio 2015\Projects\risk\risk\obj\Release\risk.csproj.GenerateResource.Cache
